@@ -1,4 +1,4 @@
-Welcome to my GitHub profile!
+layout: slide
 title: "Welcome to my awesome slide"
 
 Welcome to my GitHub changed profile!
